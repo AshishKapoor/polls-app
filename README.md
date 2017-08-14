@@ -1,2 +1,2 @@
 # polls-app
-Refreshing django with 1.11.4
+Refreshing django with 1.11
